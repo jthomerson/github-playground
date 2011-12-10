@@ -1,0 +1,12 @@
+The first thing I want to test is using GitHub's pull request API.
+
+So, I'll create this file, then ask someone else to:
+1 - fork the project
+2 - make a commit (or more) to their fork
+3 - create a pull request
+
+Then I will:
+1 - test the pull request API to see the pull request listed
+2 - manually pull the commit from their repo using info I see in the API response
+3 - push this to my repo
+4 - look at my open pull requests (on web UI and API) to see if GH closed the pull request automagically
