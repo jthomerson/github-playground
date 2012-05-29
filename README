@@ -1,5 +1,7 @@
 The first thing I want to test is using GitHub's pull request API.
 
+Now I'm testing something else - an internal mirror.
+
 So, I'll create this file, then ask someone else to:
 1 - fork the project
 2 - make a commit (or more) to their fork
